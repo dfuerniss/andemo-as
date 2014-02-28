@@ -24,7 +24,6 @@ dependencies {
     compile 'com.jcraft:jsch:0.1.50'
     compile 'com.googlecode.mp4parser:isoparser:1.0-RC-15'
     //bis RC-23 kompatibel
-    compile 'com.enbw:enbw-theme:0.2.0@aar'
     compile 'de.greenrobot:eventbus:2.2.0'
     compile 'com.github.castorflex.smoothprogressbar:library:0.3.3'
 }
