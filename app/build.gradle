@@ -20,4 +20,5 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
+    compile 'com.googlecode.mp4parser:isoparser:1.0-RC-15'
 }
